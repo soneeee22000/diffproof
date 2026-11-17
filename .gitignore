@@ -1,0 +1,31 @@
+# Private planning notes
+plan.md
+PLAN-REVIEW-*.md
+
+# Secrets
+.env
+.env.*
+
+# Local spend ledger
+.diffproof/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Editor and tool directories
+.vscode/
+.idea/
+.claude/
+.sixth/
+.cursor/
